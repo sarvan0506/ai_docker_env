@@ -31,11 +31,11 @@ Build the docker image using
 
 _Linux_
 
-``` $ sudo docker build -t nvidia_anaconda:v1 . ```
+``` $ sudo docker build -t nvidia_anaconda_torch:v1 . ```
 
 _Windows_
 
-``` $ docker build -t nvidia_anaconda:v1 . ```
+``` $ docker build -t nvidia_anaconda_torch:v1 . ```
 
 
 #### Step 2
