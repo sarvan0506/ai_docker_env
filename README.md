@@ -29,11 +29,11 @@ In case of windows machine install Docker Desktop.
 
 Build the docker image using
 
-__Linux__
+_Linux_
 
 ``` $ sudo docker build -t nvidia_anaconda:v1 . ```
 
-__Windows__
+_Windows_
 
 ``` $ docker build -t nvidia_anaconda:v1 . ```
 
@@ -44,14 +44,14 @@ Before bringing the docker env edit the .sh(linux) or .bat(windows) file and rep
 
 Bring the docker environment by running the script
 
-__Linux__
+_Linux_
 
 ``` $ ./bring_env.sh ```
 
-__Windows__
+_Windows_
 
 ``` $ bring_env.bat ```
 
 ### Step 3
 
-Access your jupyter environment in __localhost:8091__
+Access your jupyter environment in _localhost:8091_
