@@ -52,6 +52,8 @@ _Windows_
 
 ``` $ bring_env.bat ```
 
+_run the above command every time you reboot.
+
 ### Step 3
 
 Access your jupyter environment in _localhost:8091_
