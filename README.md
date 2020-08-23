@@ -52,7 +52,7 @@ _Windows_
 
 ``` $ bring_env.bat ```
 
-_run the above command every time you reboot.
+_run the above command every time you reboot._
 
 ### Step 3
 
