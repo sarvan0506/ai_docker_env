@@ -46,7 +46,7 @@ Bring the docker environment by running the script
 
 _Linux_
 
-``` $ ./bring_env.sh ```
+``` $ sh ./bring_env.sh ```
 
 _Windows_
 
