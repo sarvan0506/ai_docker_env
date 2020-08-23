@@ -24,8 +24,6 @@ This is a docker container environment for GPU enabled development of AI applica
 Docker needs to be installed first, recommended docker version 19.03.xx or higher.
 In case of windows machine install Docker Desktop.
 
-
-
 #### Step 1
 
 
@@ -42,6 +40,7 @@ __Windows__
 
 #### Step 2
 
+Before bringing the docker env edit the .sh(linux) or .bat(windows) file and replace "home/username" with your folder path you like to use for your development. The objective is to provide persistence to your work, ensure you make this change otherwise **you will loose your files every time the container restarts**
 
 Bring the docker environment by running the script
 
@@ -52,3 +51,7 @@ __Linux__
 __Windows__
 
 ``` $ bring_env.bat ```
+
+### Step 3
+
+Access your jupyter environment in __localhost:8091__
