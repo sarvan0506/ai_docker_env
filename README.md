@@ -24,27 +24,31 @@ This is a docker container environment for GPU enabled development of AI applica
 Docker needs to be installed first, recommended docker version 19.03.xx or higher.
 In case of windows machine install Docker Desktop.
 
+
+
 #### Step 1
+
 
 Build the docker image using
 
 __Linux__
 
-``` $ sudo docker build -t nvidia_anaconda:v1 .
+``` $ sudo docker build -t nvidia_anaconda:v1 . ```
 
 __Windows__
 
-``` $ docker build -t nvidia_anaconda:v1 .
+``` $ docker build -t nvidia_anaconda:v1 . ```
+
 
 #### Step 2
+
 
 Bring the docker environment by running the script
 
 __Linux__
 
-``` $ ./bring_env.sh 
+``` $ ./bring_env.sh ```
 
 __Windows__
 
-``` $ bring_env.bat
-
+``` $ bring_env.bat ```
