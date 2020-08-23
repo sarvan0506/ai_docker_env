@@ -40,7 +40,7 @@ _Windows_
 
 #### Step 2
 
-Before bringing the docker env edit the .sh(linux) or .bat(windows) file and replace "home/username" with your folder path you like to use for your development. The objective is to provide persistence to your work, ensure you make this change otherwise **you will loose your files every time the container restarts**
+Before bringing the docker env edit the .sh(linux) or .bat(windows) file and replace **home/username** with your folder path you like to use for the development. The objective is to provide persistence to your work by using volume mount to the container environment, ensure you make this change otherwise **you will loose your files every time the container restarts**
 
 Bring the docker environment by running the script
 
