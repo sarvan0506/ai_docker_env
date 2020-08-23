@@ -1,8 +1,6 @@
 # ai_docker_env
 
-This is a docker container environment for GPU enabled development of AI applications. This helps isolate <br>
-your machine from the AI development environment and provides flexibility to multiple environments for different type <br>
-applications like nlp, vision, RL etc and makes expermentation with different DL libraries easier with containerization.
+This is a docker container environment for GPU enabled development of AI applications. This helps isolate your machine from the AI development environment and provides flexibility to work with multiple environments for different type applications like nlp, vision, RL etc and makes expermentation with different DL libraries easier with containerization.
 
 - The Dockerfile has all necessary libraries build from image **nvidia/cuda:10.0-cudnn7-devel-ubuntu18.04**.
 - This also provides a jupyter dev environment.
