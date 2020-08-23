@@ -50,7 +50,7 @@ _Linux_
 
 _Windows_
 
-``` $ bring_env.bat ```
+``` $ bring_env.bat ``` or just double-click the batch file
 
 _run the above command every time you reboot._
 
