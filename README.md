@@ -29,7 +29,7 @@ In case of windows machine install Docker Desktop. To install see https://docs.d
 
 Build the docker image using
 
-_Linux_
+_Linux (Recommended)_
 
 ``` $ sudo docker build -t nvidia_anaconda_torch:v1 . ```
 
@@ -44,7 +44,7 @@ Before bringing the docker env edit the .sh(linux) or .bat(windows) file and rep
 
 Bring the docker environment by running the script
 
-_Linux_
+_Linux (Recommended)_
 
 ``` $ sh ./bring_env.sh ```
 
