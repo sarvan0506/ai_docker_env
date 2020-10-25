@@ -52,7 +52,7 @@ _Windows_
 
 ``` $ bring_env.bat ``` or just double-click the batch file
 
-_run the above command every time you reboot._
+_run the above command every time you reboot. Similar to activating virtual environment in this case it Containerized!_
 
 ### Step 3
 
