@@ -22,7 +22,7 @@ This is a docker container environment for GPU enabled development of AI applica
 #### Requirements
 
 Docker needs to be installed first, recommended docker version 19.03.xx or higher.
-In case of windows machine install Docker Desktop.
+In case of windows machine install Docker Desktop. To install see https://docs.docker.com/engine/install/
 
 #### Step 1
 
