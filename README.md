@@ -58,4 +58,4 @@ _run the above command every time you reboot. Similar to activating virtual envi
 
 Access your jupyter environment in _localhost:8091_
 
-* Enjoy your development!! *
+**Enjoy your development!!**
